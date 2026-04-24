@@ -57,9 +57,10 @@ Notes:
 
 ---
 
-## Projects & Context
+## About Migo
 
-*(to be populated)*
+- Works at **CrowdStrike**
+- Has RSUs from both CrowdStrike (CRWD) and SentinelOne (S) — previously worked at SentinelOne
 
 ---
 
