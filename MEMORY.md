@@ -9,12 +9,12 @@
 ### Fidelity (US) — as of 2026-04-24
 **Total Assets displayed: ~$1,724,646**
 
-| Account | Type | Value |
-|---|---|---|
-| -6090 | Individual Brokerage | $0.00 (empty) |
-| -6090 | Stock Plan **CRWD** (CrowdStrike) | Current (vested): $832,637.80 / Unvested: $2,431,777.19 / Total: $3,264,415.00 |
-| -4943 | Individual Brokerage | $198,985.58 (Cash: $3,010.90, Total Gain: $21,457.39 / +12.30%) |
-| -4943 | Stock Plan **S** (SentinelOne) | $693,022.62 (fully vested) |
+| Account # | Institution | Type | Value |
+|---|---|---|---|
+| -6090 | Fidelity | Individual Brokerage | $0.00 (empty) |
+| -6090 | Fidelity | Stock Plan **CRWD** (CrowdStrike) | Current (vested): $832,637.80 / Unvested: $2,431,777.19 / Total: $3,264,415.00 |
+| -4943 | Fidelity | Individual Brokerage | $198,985.58 (Cash: $3,010.90, Total Gain: $21,457.39 / +12.30%) |
+| -4943 | Fidelity | Stock Plan **S** (SentinelOne) | $693,022.62 (fully vested) |
 
 Notes:
 - CRWD stock plan has large unvested portion ($2.4M+) — employer RSUs likely
@@ -23,12 +23,16 @@ Notes:
 ---
 
 ### Interactive Brokers (US) — as of 2026-04-24
+- **Institution: Interactive Brokers (IBKR)**
+- Account number: not captured from screenshot
 - **Portfolio Value: $905,281.39**
 - Since inception gain: +$902,239.19 (+29,657.46%) — started near zero
 
 ---
 
 ### Israeli Bank — Account 092-366612 — as of 2026-04-24
+- **Institution: Bank Leumi** (Beyond & loyalty program, Visa Leumi International card)
+- Account number: **092-366612**
 - **Current account (עו"ש): ₪742,849.03**
 - Deposits & savings (ILS): ₪1,034,051.17
 - Foreign currency balance: ₪0.74
