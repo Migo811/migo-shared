@@ -22,11 +22,30 @@ Notes:
 
 ---
 
-### Interactive Brokers (US) — as of 2026-04-24
+### Interactive Brokers (US) — as of 2026-11-03
 - **Institution: Interactive Brokers (IBKR)**
-- Account number: not captured from screenshot
-- **Portfolio Value: $905,281.39**
-- Since inception gain: +$902,239.19 (+29,657.46%) — started near zero
+- Account number: not captured
+- **Net Liquidation Value: $2,052,964**
+- Market Value: $1,978,395.87 | Unrealized P&L: $72,890
+- Excess Liquidity: $1,557,099 | Buying Power: $6,129,474
+
+**Positions (8):**
+| Ticker | Qty | Mkt Val | Notes |
+|---|---|---|---|
+| VTI | 3,050 | ~$1.1M | US Total Market — largest holding |
+| SGOV | 2,730 | ~$274K | Ultra-short treasury (cash-like) |
+| VXUS | 2,900 | ~$239K | Intl ex-US |
+| IEF | 1,130 | ~$103K | 7-10yr Treasuries |
+| IAU | 1,350 | ~$100K | Gold ETF |
+| VTV | 359 | ~$81.7K | US Value |
+| VWO | 572 | ~$31.7K | Emerging Markets |
+| GOOG | 50 | ~$13.9K | Individual stock |
+
+**Cash Balances:**
+- ILS Cash: ~199K ILS (uninvested)
+- USD Cash: ~$10.6K
+
+**Strategy:** Passive index investing (Boglehead style) — VTI core with international, bond, gold tilts.
 
 ---
 
